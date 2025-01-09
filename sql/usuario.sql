@@ -1,1 +1,5 @@
+CREATE DATABASE CiberLynx;
+CREATE USER 'ciber'@'%' IDENTIFIED BY 'fedora';
+GRANT ALL PRIVILEGES ON CiberLynx.* TO 'ciber'@'%';
+FLUSH PRIVILEGES;
 

@@ -1,0 +1,26 @@
+.navbar-custom {
+    background-color: #343a40;
+    width: 100%;
+  }
+  .navbar-logo {
+    max-width: 150px;
+    height: auto;
+    object-fit: contain;
+  }
+  .nav-item {
+    text-align: center;
+  }
+  .nav-link {
+    white-space: nowrap;
+  }
+  .content-wrapper {
+    margin-top: 100px;
+  }
+  @media (max-width: 768px) {
+    .navbar-logo {
+      max-width: 100px;
+    }
+    .content-wrapper {
+      margin-top: 70px;
+    }
+  }

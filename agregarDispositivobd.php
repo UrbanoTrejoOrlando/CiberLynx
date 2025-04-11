@@ -15,4 +15,3 @@
       	echo "Problemas al registrar el dispositivo verifique de nuevo: " . mysqli_error($conexion);
 		}
 ?>
-

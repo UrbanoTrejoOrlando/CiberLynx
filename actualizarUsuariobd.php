@@ -19,4 +19,3 @@
     	echo "Problemas al actualizar los datos, verifique de nuevo: " . mysqli_error($conexion);
   }
 ?>
-

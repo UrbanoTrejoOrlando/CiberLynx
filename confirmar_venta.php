@@ -181,4 +181,3 @@ if (isset($_SESSION['productos_venta']) && !empty($_SESSION['productos_venta']))
 
 </body>
 </html>
-

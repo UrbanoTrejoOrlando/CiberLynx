@@ -189,4 +189,3 @@ if (isset($_SESSION['Rol'])) {
     <!-- Control sidebar content goes here -->
   </aside>
   <!-- /.control-sidebar -->
-

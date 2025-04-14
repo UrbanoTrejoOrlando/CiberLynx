@@ -166,4 +166,3 @@ if (isset($_SESSION['Rol'])) {
 </div>
 </body>
 </html>
-

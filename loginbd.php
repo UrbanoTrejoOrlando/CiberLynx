@@ -57,4 +57,3 @@ if (mysqli_num_rows($resultado) == 1) {
 // Cerrar la conexión
 mysqli_close($conexion);
 ?>
-

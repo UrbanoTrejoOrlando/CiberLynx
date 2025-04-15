@@ -121,6 +121,8 @@ if (isset($_SESSION['Rol'])) {
         echo '<li class="nav-item">';
         echo '<a class="nav-link" href="ventas.php"><i class="fas fa-dollar-sign text-align:center"></i> Ventas</a>';
         echo '</li>';
+       
+        echo '<li class="nav-item">';
         echo '<a class="nav-link" href="wifi.php"><i class="fas fa-wifi"></i> Wifi</a>';
         echo '</li>';
     }
@@ -131,6 +133,12 @@ if (isset($_SESSION['Rol'])) {
     echo '</nav>';
 }
 ?> 
+
+
+
+
+
+
   <div class="content-wrapper">
   </div>
   <aside class="control-sidebar control-sidebar-dark">  
@@ -139,4 +147,3 @@ if (isset($_SESSION['Rol'])) {
 <script src="dist/js/pages/dashboard.js"></script>
 </body>
 </html>
-

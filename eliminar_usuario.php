@@ -1,6 +1,6 @@
 <?php
 include("conexion/conectar_base.php");
-$clave = $_GET['clv_usuario'];
+$clave = $_GET['clave'];
 echo $clave;
 
 # Llamada al procedure
@@ -13,5 +13,5 @@ if (mysqli_query($conexion,$sql)){
 }
 
 mysqli_close($conexion);
-?>
 
+?>

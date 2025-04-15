@@ -51,4 +51,3 @@ if (isset($_SESSION['fecha_inicio']) && isset($_SESSION['fecha_fin'])) {
     die('Fechas no establecidas en la sesión.');
 }
 ?>
-

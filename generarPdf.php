@@ -91,4 +91,3 @@ $pdf->writeHTML($html, true, false, true, false, '');
 // Salida del PDF como descarga
 $pdf->Output('reporte_ventas.pdf', 'D');
 ?>
-

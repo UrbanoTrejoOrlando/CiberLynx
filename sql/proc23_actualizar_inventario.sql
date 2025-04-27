@@ -1,3 +1,4 @@
+-- Verificar si el procedure existe
 DROP PROCEDURE IF EXISTS proc_actualizar_inventario;
 DELIMITER //
 CREATE PROCEDURE proc_actualizar_inventario(

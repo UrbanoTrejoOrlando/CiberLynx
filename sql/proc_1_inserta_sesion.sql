@@ -5,7 +5,8 @@ CREATE PROCEDURE proc_inserta_sesion(
     IN p_clv_usuario VARCHAR(5)
 )
 BEGIN
-    DECLARE p_folio_sesion VARCHAR(12); -- Ajustado para 12 caracteres
+    -- Ajustado para 12 caracteres
+    DECLARE p_folio_sesion VARCHAR(12); 
     SET p_folio_sesion = GenerarClaveAleatoria12();
 
     -- Inserción en la tabla Sesion

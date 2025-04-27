@@ -1,3 +1,4 @@
+-- Verficar si el procedure existe
 CREATE PROCEDURE proc_eliminar_cliente;
 
 DELIMITER //

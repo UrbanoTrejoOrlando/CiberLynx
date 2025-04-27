@@ -1,3 +1,4 @@
+-- Verificar si el procedure existe
 CREATE PROCEDURE IF EXISTS proc_eliminar_unidad;
 
 DELIMITER //

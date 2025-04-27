@@ -1,4 +1,4 @@
-
+-- Verificar si el procedure existe
 DROP PROCEDURE IF EXISTS proc_mostrar_inventario;
 
 DELIMITER //

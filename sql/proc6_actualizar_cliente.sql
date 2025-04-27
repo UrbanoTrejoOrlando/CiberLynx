@@ -1,3 +1,4 @@
+--Verificar si el provedure existe
 DROP PROCEDURE IF EXISTS proc_actualizar_cliente;
 
 DELIMITER //

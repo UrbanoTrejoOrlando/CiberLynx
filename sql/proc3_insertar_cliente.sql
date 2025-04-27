@@ -1,3 +1,6 @@
+-- Eliminar el procedure si es que existe
+DROP PROCEDURE IF EXISTS proc_insertar_cliente;
+
 DELIMITER ;;
 CREATE DEFINER=`Orlando`@`%` PROCEDURE `proc_insertar_cliente`(
     IN p_nombre VARCHAR(20),

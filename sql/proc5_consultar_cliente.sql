@@ -1,3 +1,4 @@
+-- Verficar si el procedure existe
 DROP PROCEDURE IF EXISTS proc_consultar_cliente;
 
 DELIMITER //

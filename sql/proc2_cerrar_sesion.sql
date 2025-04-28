@@ -1,4 +1,4 @@
-
+-- Procedure numero 2
 -- Eliminar el procedure si es que existe
 DROP PROCEDURE IF EXISTS proc_cerrar_sesion;
 

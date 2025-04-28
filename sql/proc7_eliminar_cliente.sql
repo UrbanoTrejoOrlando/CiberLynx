@@ -1,3 +1,4 @@
+-- Procedure numero 7
 -- Verficar si el procedure existe
 CREATE PROCEDURE proc_eliminar_cliente;
 

@@ -1,3 +1,4 @@
+-- Procedure numero 24
 -- Verificar si el procedure existe
 DROP PROCEDURE IF EXISTS proc_eliminar_inventario;
 DELIMITER //

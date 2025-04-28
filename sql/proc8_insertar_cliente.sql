@@ -1,3 +1,4 @@
+-- Procedure numero 8
 -- Verificar si el procedure existe
 DROP PROCEDURE IF EXISTS proc_insertar_cliente;
 

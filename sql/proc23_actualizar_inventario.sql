@@ -1,3 +1,4 @@
+-- Procedure numero 23
 -- Verificar si el procedure existe
 DROP PROCEDURE IF EXISTS proc_actualizar_inventario;
 DELIMITER //

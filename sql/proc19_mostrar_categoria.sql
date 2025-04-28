@@ -1,3 +1,4 @@
+-- Procedure numero 19
 -- Verificar si el procedure existe
 DROP PROCEDURE IF EXISTS proc_mostrar_categoria;
 

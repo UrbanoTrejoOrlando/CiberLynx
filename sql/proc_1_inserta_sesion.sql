@@ -1,4 +1,6 @@
-
+-- Procedure numero 1
+-- Eliminar el procedure si es que existe
+DROP PROCEDURE IF EXISTS proc_inserta_sesion;
 DELIMITER //
 
 CREATE PROCEDURE proc_inserta_sesion(

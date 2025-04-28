@@ -1,3 +1,4 @@
+-- Procedure numero 9
 -- Verificar si el procedure existe
 DROP PROCEDURE IF EXISTS proc_insertar_marca;
 
